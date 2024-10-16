@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Habib
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Front-end development
+- 👋 Hi, I’m Habib a Software Engineering Student at 42 Berlin
+
+  [![hMote's 42 stats](https://badge.mediaplus.ma/kettlebells/hMote?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  
+- 👀 I’m interested in Programming and IT World
 - 💞️ I'm looking to collaborate on New Challenges. If you have a team working on a new challenge let me know.
 - 📫 How to reach me?  [My Digital Business Card](https://my-digi-card.netlify.app/) and [My Website](https://habibmote.com/)
 
