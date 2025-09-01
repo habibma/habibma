@@ -4,7 +4,7 @@
   
 - 👀 I’m interested in Programming and IT World
 - 💞️ I'm looking to collaborate on New Challenges. If you have a team working on a new challenge let me know.
-- 📫 How to reach me?  [My Digital Business Card](https://my-digi-card.netlify.app/) and [My Website](https://habibmote.com/)
+- 📫 How to reach me? [My Website](https://habibmote.com/)
 
 <!---
 habibma/habibma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
