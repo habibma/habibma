@@ -4,7 +4,7 @@
   
 - 👀 These are the ### 📊 Languages I Use Most these days
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibma&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibma&layout=compact&theme=radical)
 
 - 💞️ I'm looking to collaborate on New Challenges, solve problems, and fill gaps with programs.
 - 📫 How to reach me? [My Website](https://habibmote.com/)
