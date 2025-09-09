@@ -2,6 +2,7 @@
 <br>
 
 - 📚 Currently learning at 42 Berlin, exploring C, C++, Networking, Algorithms, System Design, and more.
+  
   [![hMote's 42 stats](https://badge.mediaplus.ma/kettlebells/hMote?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   
 - 📊 These are the Languages I Used Most
