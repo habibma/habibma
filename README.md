@@ -11,7 +11,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibma&layout=compact&theme=radical)  
 <br>
 
-💻 I see myself as a problem solver who identifies gaps and fills them with useful programs. 
+- 💻 I see myself as a problem solver who identifies gaps and fills them with useful programs. 
 🤝 I’m looking to collaborate on lovely projects that help people and make an impact — with a passionate and supportive team.
 - 📫 How to reach me?
     - [My Website](https://habibmote.com/)
