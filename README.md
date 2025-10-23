@@ -1,4 +1,4 @@
-- 💻 I’m Habib (which means lover) — and these days, my love is for code and computer science.
+- 💻 I’m Habib — and these days, my love is for code and computer science.
 <br>
 
 - 📚 Currently learning at 42 Berlin, exploring C, C++, Networking, Algorithms, System Design, and more.
